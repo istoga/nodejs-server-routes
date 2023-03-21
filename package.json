@@ -1,0 +1,20 @@
+{
+  "name": "server-routes-assignment",
+  "version": "1.0.0",
+  "description": "server and routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "routes"
+  ],
+  "author": "Neka Blair",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.21"
+  }
+}
